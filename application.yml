@@ -7,4 +7,4 @@ eureka:
       defaultZone: http://eureka1.tacocloud.com:8761/eureka
 
 greeting:
-  message: Hiya folks!
+  message: Hiya folks! 001.
