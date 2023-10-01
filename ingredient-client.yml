@@ -2,3 +2,8 @@ server:
   port: 8080
 client: 
   message: hello world, client!
+---
+spring:
+  profiles: prod
+ingredient:
+  message: hello world, ingredient! This is production.
