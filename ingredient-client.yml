@@ -4,6 +4,6 @@ client:
   message: hello world, client!
 ---
 spring:
-  profiles: prod
+  profiles: feign
 ingredient:
   message: hello world, client! This is production.
